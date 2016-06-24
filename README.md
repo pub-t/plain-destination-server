@@ -1,2 +1,2 @@
 # plain-destination-server
-server prototype for client project
+* Server prototype for [this](https://github.com/pub-t/plain-destination) client project
